@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+body {
+  padding: 10px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 10px auto 0;
+  font-size: 1.5rem;
+  color: #4a788b;
+  border-radius: 10px;
+}
+table thead {
+  background-color: #d9f8fc;
+}
+table th,
+table td {
+  border: 1px solid #6fcfff;
+  padding: 5px 10px;
+}
